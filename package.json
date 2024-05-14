@@ -1,0 +1,14 @@
+{
+  "name": "geolocation-api-ibmcouse",
+  "version": "1.0.0",
+  "description": "This is a project to start learning about geolocation api's for an introduction to WEB development course from IBM",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1 src"
+  },
+  "author": "Vitor Siqueira",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
